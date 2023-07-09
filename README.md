@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome👋
+
+My name is Nikita Kochkarinov. Brief information about me:
+
+* 🍼 I started programming at the age of 16. Went to college, learned. First web-sites, console-programs, UI, apps. I liked all directions!
+* 👨‍🎓 My education: "Technician programmer" in college. Also, I spend a lot of time on self-education.
+* 👨‍💻 I have commercial experience as a Technician programmer since 2022.
+* 🌍 I am speaking in: 🇷🇺 Russian (Native), 🇬🇧 English (B1).
 
 <!--
 **kochkareal/kochkareal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
