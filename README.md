@@ -1,4 +1,4 @@
-## Welcome👋
+### Welcome👋
 
 My name is Nikita Kochkarinov. Brief information about me:
 
